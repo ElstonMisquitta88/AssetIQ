@@ -11,7 +11,7 @@ public partial class Form1 : Form
         InitializeComponent();
     }
 
-    private void Form1_Load(object sender, EventArgs e)
+    private async void Form1_Load(object sender, EventArgs e)
     {
         var configuration = new ConfigurationBuilder()
              .SetBasePath(AppContext.BaseDirectory)
@@ -28,22 +28,17 @@ public partial class Form1 : Form
             apiKey: apiKey
         );
         var kernel = builder.Build();
+        kernel.Plugins.AddFromObject(new MetricsPlugin());
+        var settings = new OpenAIPromptExecutionSettings
+        {
+            FunctionChoiceBehavior = FunctionChoiceBehavior.Auto()
+        };
+        var result = await kernel.InvokePromptAsync(
+    "margin",
+       new(settings));
 
-
-
-    //    kernel.Plugins.AddFromObject(new GreetingPlugin());
-    //    kernel.Plugins.AddFromObject(new RepldgeFilePlugin());
-
-    //    var settings = new OpenAIPromptExecutionSettings
-    //    {
-    //        FunctionChoiceBehavior = FunctionChoiceBehavior.Auto()
-    //    };
-
-    //    var result = kernel.InvokePromptAsync(
-    //"Need to generate Repledge File for the day",
-    //   new(settings));
-
-    //    Console.WriteLine(result);
+        Console.WriteLine(result);
 
     }
 }
+

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\AssetIQ\\AssetIQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C0AD1F9-D026-4C40-A0AA-4082B67D382E}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0AD1F9-D026-4C40-A0AA-4082B67D382E}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\plugins\\metricsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\plugins\\metricsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0AD1F9-D026-4C40-A0AA-4082B67D382E}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C0AD1F9-D026-4C40-A0AA-4082B67D382E}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\models\\metricdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\models\\metricdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\data\\metrics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\data\\metrics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +46,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
-              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
-              "RelativeToolTip": "AssetIQ\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "metrics.json",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Data\\metrics.json",
+              "RelativeDocumentMoniker": "AssetIQ\\Data\\metrics.json",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Data\\metrics.json",
+              "RelativeToolTip": "AssetIQ\\Data\\metrics.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-07T16:22:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetricDefinition.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\MetricDefinition.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Models\\MetricDefinition.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\MetricDefinition.cs",
+              "RelativeToolTip": "AssetIQ\\Models\\MetricDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T15:34:53.44Z",
+              "WhenOpened": "2026-08-07T16:22:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetricsPlugin.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\MetricsPlugin.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Plugins\\MetricsPlugin.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\MetricsPlugin.cs",
+              "RelativeToolTip": "AssetIQ\\Plugins\\MetricsPlugin.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:52:29.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs [Design]",
-              "RelativeToolTip": "AssetIQ\\Form1.cs [Design]",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
+              "RelativeToolTip": "AssetIQ\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T15:34:43.947Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-07T15:34:53.44Z",
+              "EditorCaption": ""
             }
           ]
         }

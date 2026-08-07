@@ -1,0 +1,33 @@
+[
+  {
+    "metric": "NetWorth",
+    "displayName": "Net Worth",
+    "aliases": [
+      "net worth",
+      "worth",
+      "total worth"
+    ],
+    "description": "Total net worth available to the client.",
+    "formula": "ALB + SPAN + THV",
+    "requiredFields": [
+      "ALB",
+      "SPAN",
+      "THV"
+    ]
+  },
+  {
+    "metric": "AvailableMargin",
+    "displayName": "Available Margin",
+    "aliases": [
+      "margin",
+      "available funds"
+    ],
+    "description": "Funds available for trading.",
+    "formula": "ALB + SPAN - MTF",
+    "requiredFields": [
+      "ALB",
+      "SPAN",
+      "MTF"
+    ]
+  }
+]

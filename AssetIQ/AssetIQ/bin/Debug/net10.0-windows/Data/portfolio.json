@@ -12,9 +12,9 @@
   {
     "clientCode": "C002",
     "values": {
-      "ALB": 200000,
-      "SPAN": 80,
-      "THV": 40,
+      "ALB": 100,
+      "SPAN": 100,
+      "THV": 100,
       "PLEDGE": 20,
       "MTF": 15
     }

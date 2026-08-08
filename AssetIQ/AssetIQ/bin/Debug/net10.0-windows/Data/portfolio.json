@@ -1,0 +1,22 @@
+[
+  {
+    "clientCode": "C001",
+    "values": {
+      "ALB": 1,
+      "SPAN": 2,
+      "THV": 3,
+      "PLEDGE": 4,
+      "MTF": 5
+    }
+  },
+  {
+    "clientCode": "C002",
+    "values": {
+      "ALB": 200000,
+      "SPAN": 80,
+      "THV": 40,
+      "PLEDGE": 20,
+      "MTF": 15
+    }
+  }
+]

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\AssetIQ\\AssetIQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\plugins\\metricsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\plugins\\metricsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\plugins\\portfolioplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\plugins\\portfolioplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\models\\metricdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\models\\metricdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\models\\clientportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\models\\clientportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\data\\metrics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\data\\metrics.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,40 +47,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "metrics.json",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Data\\metrics.json",
-              "RelativeDocumentMoniker": "AssetIQ\\Data\\metrics.json",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Data\\metrics.json",
-              "RelativeToolTip": "AssetIQ\\Data\\metrics.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-07T16:22:56.022Z",
-              "EditorCaption": ""
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs [Design]",
+              "RelativeToolTip": "AssetIQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:33:39.164Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MetricDefinition.cs",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\MetricDefinition.cs",
-              "RelativeDocumentMoniker": "AssetIQ\\Models\\MetricDefinition.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\MetricDefinition.cs",
-              "RelativeToolTip": "AssetIQ\\Models\\MetricDefinition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ClientPortfolio.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\ClientPortfolio.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Models\\ClientPortfolio.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Models\\ClientPortfolio.cs",
+              "RelativeToolTip": "AssetIQ\\Models\\ClientPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T16:22:51.875Z",
+              "WhenOpened": "2026-08-08T05:31:32.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MetricsPlugin.cs",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\MetricsPlugin.cs",
-              "RelativeDocumentMoniker": "AssetIQ\\Plugins\\MetricsPlugin.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\MetricsPlugin.cs",
-              "RelativeToolTip": "AssetIQ\\Plugins\\MetricsPlugin.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwD4AAAAYAAAAAAAAAA==",
+              "Title": "PortfolioPlugin.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\PortfolioPlugin.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Plugins\\PortfolioPlugin.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\PortfolioPlugin.cs",
+              "RelativeToolTip": "AssetIQ\\Plugins\\PortfolioPlugin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T15:52:29.854Z",
+              "WhenOpened": "2026-08-08T05:30:38.543Z",
               "EditorCaption": ""
             },
             {
@@ -91,7 +90,7 @@
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
               "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeToolTip": "AssetIQ\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAEwCcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-07T15:34:53.44Z",
               "EditorCaption": ""

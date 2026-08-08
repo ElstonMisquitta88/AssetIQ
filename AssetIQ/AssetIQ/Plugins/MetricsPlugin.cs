@@ -10,30 +10,6 @@ namespace AssetIQ
 {
     public class MetricsPlugin
     {
-        //[KernelFunction]
-        //[Description("Retrieves all supported capital market metrics and their metadata. " +
-        //    "Use this to determine the correct metric for user requests such as " +
-        //    "net worth, available margin, pledged value, or other financial metrics.")]
-        //public List<MetricDefinition> GetAllMetrics()
-        //{
-        //    var filePath = Path.Combine(
-        //    AppDomain.CurrentDomain.BaseDirectory,
-        //    "Data",
-        //    "metrics.json");
-
-        //    var json = File.ReadAllText(filePath);
-        //    var options = new JsonSerializerOptions
-        //    {
-        //        PropertyNameCaseInsensitive = true
-        //    };
-
-
-        //    if (!File.Exists(filePath))
-        //        return new List<MetricDefinition>();
-
-        //    return JsonSerializer.Deserialize<List<MetricDefinition>>(json, options)
-        //           ?? new List<MetricDefinition>();
-        //}
 
         [KernelFunction]
         [Description("Finds the financial metric that best matches the user's request.")]

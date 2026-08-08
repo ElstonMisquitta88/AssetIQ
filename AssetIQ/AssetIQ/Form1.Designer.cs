@@ -28,19 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            txt_result = new RichTextBox();
             SuspendLayout();
+            // 
+            // txt_result
+            // 
+            txt_result.BackColor = SystemColors.ButtonHighlight;
+            txt_result.Location = new Point(12, 26);
+            txt_result.Name = "txt_result";
+            txt_result.ReadOnly = true;
+            txt_result.Size = new Size(987, 466);
+            txt_result.TabIndex = 0;
+            txt_result.Text = "";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1011, 556);
+            Controls.Add(txt_result);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Asset Agent";
             Load += Form1_Load;
             ResumeLayout(false);
         }
 
         #endregion
+
+        private RichTextBox txt_result;
     }
 }

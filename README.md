@@ -10,6 +10,15 @@ The project demonstrates how **Generative AI can be combined with existing finan
 
 ---
 
+<img width="1706" height="536" alt="Img_01" src="https://github.com/user-attachments/assets/6e579131-25c1-4d9b-a215-51555a36b8aa" />
+
+
+<img width="1700" height="532" alt="Img_02" src="https://github.com/user-attachments/assets/df199d26-9a76-48d9-b33c-0369b3512ee6" />
+
+
+
+---
+
 ## Overview
 
 Traditional financial applications typically expose portfolio information through predefined screens, reports, and APIs.

@@ -7,6 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>81f02a37-d356-44b4-bdc8-50bb31c61411</UserSecretsId>
+    <ApplicationIcon>Img\Graphicloads-Flat-Finance-Coins.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,6 +22,7 @@
     <Content Include="Data\portfolio.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Img\Graphicloads-Flat-Finance-Coins.ico" />
   </ItemGroup>
 
   <ItemGroup>

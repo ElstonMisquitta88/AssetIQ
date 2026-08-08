@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             txt_result = new RichTextBox();
             txt_userquestion = new RichTextBox();
             label1 = new Label();
@@ -106,6 +107,7 @@
             Controls.Add(label1);
             Controls.Add(txt_userquestion);
             Controls.Add(txt_result);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Asset Agent";
             Load += Form1_Load;

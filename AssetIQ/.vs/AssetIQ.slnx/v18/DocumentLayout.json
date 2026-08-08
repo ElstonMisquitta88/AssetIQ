@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\AssetIQ\\AssetIQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
               "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeToolTip": "AssetIQ\\Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAwC8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-07T15:34:53.44Z",
               "EditorCaption": ""

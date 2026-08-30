@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|D:\\GitHub\\AssetIQ\\AssetIQ\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CB5AD821-14E1-4148-ACFB-9452515ADD81}|AssetIQ.CalculationMcpServer\\AssetIQ.CalculationMcpServer.csproj|d:\\github\\assetiq\\assetiq\\assetiq.calculationmcpserver\\tools\\calculationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5AD821-14E1-4148-ACFB-9452515ADD81}|AssetIQ.CalculationMcpServer\\AssetIQ.CalculationMcpServer.csproj|solutionrelative:assetiq.calculationmcpserver\\tools\\calculationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +42,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
-              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs [Design]",
-              "RelativeToolTip": "AssetIQ\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T05:53:13.855Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
               "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeToolTip": "AssetIQ\\Form1.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T15:34:53.44Z",
+              "WhenOpened": "2026-08-30T06:15:19.663Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationTools.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
+              "RelativeDocumentMoniker": "AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
+              "RelativeToolTip": "AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T06:45:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs [Design]",
+              "RelativeToolTip": "AssetIQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T06:15:18.599Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

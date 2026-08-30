@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="AssetIQ.CalculationMcpServer/AssetIQ.CalculationMcpServer.csproj" Id="cb5ad821-14e1-4148-acfb-9452515add81" />
   <Project Path="AssetIQ/AssetIQ.csproj" />
 </Solution>

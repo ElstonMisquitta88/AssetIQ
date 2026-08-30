@@ -68,6 +68,10 @@
             "Microsoft.SemanticKernel.Connectors.OpenAI": {
               "target": "Package",
               "version": "[1.79.0, )"
+            },
+            "ModelContextProtocol": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [

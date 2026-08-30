@@ -5755,7 +5755,7 @@
     "version": "0.1.0-beta",
     "restore": {
       "projectUniqueName": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\AssetIQ.CalculationMcpServer.csproj",
-      "projectName": "SampleMcpServer.win-x64",
+      "projectName": "SampleMcpServer",
       "projectPath": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\AssetIQ.CalculationMcpServer.csproj",
       "packagesPath": "C:\\Users\\Elston\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\obj\\",

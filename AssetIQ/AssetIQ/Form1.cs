@@ -92,19 +92,6 @@ public partial class Form1 : Form
                 await McpClient.CreateAsync(transport);
             //[-] MCP Client Transport
 
-
-
-
-
-                      
-
-
-
-
-
-
-
-
             if (string.IsNullOrWhiteSpace(this.Text))
             {
                 MessageBox.Show("Please ask a question.");

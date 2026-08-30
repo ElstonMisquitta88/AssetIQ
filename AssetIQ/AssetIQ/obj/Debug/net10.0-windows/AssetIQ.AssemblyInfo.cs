@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssetIQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20c781a9bfbc9d256512edf71054ab4461fd1e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da3eda03aa5ca672d26e0f655115a63e0f5f4f9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssetIQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssetIQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

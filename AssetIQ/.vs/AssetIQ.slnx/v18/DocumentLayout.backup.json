@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{CB5AD821-14E1-4148-ACFB-9452515ADD81}|AssetIQ.CalculationMcpServer\\AssetIQ.CalculationMcpServer.csproj|solutionrelative:assetiq.calculationmcpserver\\tools\\calculationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\plugins\\calculationmcpplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\plugins\\calculationmcpplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|d:\\github\\assetiq\\assetiq\\assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D761075D-B534-398B-C385-BFB43D2CC4A1}|AssetIQ\\AssetIQ.csproj|solutionrelative:assetiq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -22,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
+              "RelativeToolTip": "AssetIQ\\Form1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T06:15:19.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -42,15 +60,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
-              "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
-              "RelativeToolTip": "AssetIQ\\Form1.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKEAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CalculationMcpPlugin.cs",
+              "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\CalculationMcpPlugin.cs",
+              "RelativeDocumentMoniker": "AssetIQ\\Plugins\\CalculationMcpPlugin.cs",
+              "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Plugins\\CalculationMcpPlugin.cs",
+              "RelativeToolTip": "AssetIQ\\Plugins\\CalculationMcpPlugin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T06:15:19.663Z",
+              "WhenOpened": "2026-08-30T06:52:30.552Z",
               "EditorCaption": ""
             },
             {
@@ -61,14 +79,14 @@
               "RelativeDocumentMoniker": "AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
               "ToolTip": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
               "RelativeToolTip": "AssetIQ.CalculationMcpServer\\Tools\\CalculationTools.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-30T06:45:44.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\GitHub\\AssetIQ\\AssetIQ\\AssetIQ\\Form1.cs",
               "RelativeDocumentMoniker": "AssetIQ\\Form1.cs",
